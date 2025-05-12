@@ -23,21 +23,18 @@ I’m a data analytics bootcamp graduate specializing in Power BI development an
 
 🛠 Featured Projects
 
-🔹 Advanced Sales Dashboard – Multi-page Power BI dashboard analyzing sales trends & customer behavior
 
-🔹 Seasonality Analysis – Using Power BI & DAX to predict demand fluctuations in grocery retail
-
-🔹 Dynamic KPI Reporting – Building interactive Power BI reports tailored to stakeholder needs
 
 🎯 Goals
 
-🔹 Secure a Power BI Developer role in logistics, manufacturing, or energy
+🔹 Secure a Power BI Developer
 
 🔹 Master enterprise-level Power BI solutions for large-scale reporting
 
 🔹 Build scalable business intelligence frameworks for actionable insights
 
 🔹 Expand expertise into predictive analytics and automated reporting
+
 
 📬 Let’s Connect!
 
