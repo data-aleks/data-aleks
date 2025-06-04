@@ -1,1 +1,44 @@
+# 👋 Welcome to My GitHub Portfolio  
+
+## 🏆 About Me  
+I'm a **Data Analyst & Power BI Developer**, passionate about transforming raw data into actionable insights. With a strong background in **SQL, Python, and Power BI**, I specialize in **data visualization, dashboard design, and advanced analytics**.  
+
+After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experience in **sql, excel, power bi, azure, python, data modeling, report optimization, and performance tuning**—skills that drive meaningful decision-making in business intelligence.  
+
+📍 Currently working on **advanced DAX techniques, customer analytics, and business intelligence solutions** to refine my portfolio.  
+
+---
+
+## 🚀 Featured Projects  
+
+### **📊 Multi-Page Dashboard – Group Project**  
+This **Power BI dashboard** was developed as a collaborative project by participants of the **Just IT Data Technician Bootcamp**, working beyond structured sessions to tackle a real-world **data analytics and dashboarding challenge**.  
+🔗 **GitHub Repo:** [Multi-Page Dashboard](https://github.com/data-aleks/Multi-Page-Dashboard-Group-Project-)  
+🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/posts/data-aleks_powerbi-dataanalytics-collaboration-activity-7335969275662204928-mNZn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoVicIBeJ3vjyB51wcWrPmVV--yH5Xk308)  
+
+### **💰 Telecom Churn Rate Dashboard and Data Analysis** 
+This **Power BI dashboard** analyzes **customer churn trends** using the **Orange Telecom Churn Dataset**, which contains cleaned customer activity data along with a churn label indicating whether a customer canceled their subscription.    
+🔗 **GitHub Repo:** [Financial Market Analysis](https://github.com/data-aleks/Telecom_churn_rate)  
+
+### **📍 Coffee Vending Machine Sales Analysis**  
+This **Power BI dashboard** analyzes **transaction records from a coffee vending machine**, providing insights into **purchasing patterns, sales trends, and customer preferences** for coffee products. The dataset, contributed as part of an **open data initiative**, offers a valuable resource for understanding consumer behavior in vending machine sales.   
+🔗 **GitHub Repo:** [Coffee Vending Machine Sales Analysis](https://github.com/data-aleks/coffee_machine_sales)  
+
+---
+
+## 🛠️ Skills & Technologies  
+✅ **Power BI** – Dashboard Development, DAX, Report Optimization  
+✅ **SQL** – Querying, Data Transformation, ETL  
+✅ **Python** – Data Manipulation, Pandas, NumPy, Seaborn  
+✅ **Azure** – Cloud-based Analytics, Data Lake Storage  
+✅ **Dimensional Modeling** – Star Schema, Kimball Method  
+✅ **Data Storytelling** – Turning insights into impactful reports  
+
+---
+
+## 📢 Connect With Me  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/data-aleks/)  
+🚀 **Portfolio & GitHub Projects:** [GitHub Profile](https://github.com/data-aleks)  
+
+I'm passionate about leveraging **data analytics and business intelligence** to drive strategic decision-making. Always open to collaborating on **Power BI & Data Analytics projects**—let’s make data-driven insights **impactful!** 🔥  
 
