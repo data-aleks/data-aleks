@@ -19,6 +19,8 @@ This **Power BI dashboard** was developed as a collaborative project by particip
 ### **💰 Telecom Churn Rate Dashboard and Data Analysis** 
 This **Power BI dashboard** analyzes **customer churn trends** using the **Orange Telecom Churn Dataset**, which contains cleaned customer activity data along with a churn label indicating whether a customer canceled their subscription.    
 🔗 **GitHub Repo:** [Financial Market Analysis](https://github.com/data-aleks/Telecom_churn_rate)  
+🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/posts/data-aleks_powerbi-data-dashboard-activity-7336291499443126273-O714?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoVicIBeJ3vjyB51wcWrPmVV--yH5Xk308)  
+
 
 ### **📍 Coffee Vending Machine Sales Analysis**  
 This **Power BI dashboard** analyzes **transaction records from a coffee vending machine**, providing insights into **purchasing patterns, sales trends, and customer preferences** for coffee products. The dataset, contributed as part of an **open data initiative**, offers a valuable resource for understanding consumer behavior in vending machine sales.   
