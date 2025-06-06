@@ -25,6 +25,7 @@ This **Power BI dashboard** analyzes **customer churn trends** using the **Orang
 ### **📍 Coffee Vending Machine Sales Analysis**  
 This **Power BI dashboard** analyzes **transaction records from a coffee vending machine**, providing insights into **purchasing patterns, sales trends, and customer preferences** for coffee products. The dataset, contributed as part of an **open data initiative**, offers a valuable resource for understanding consumer behavior in vending machine sales.   
 🔗 **GitHub Repo:** [Coffee Vending Machine Sales Analysis](https://github.com/data-aleks/coffee_machine_sales)  
+🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/posts/data-aleks_powerbi-dataanalytics-dashboarddesign-activity-7336873856801869825-Powa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoVicIBeJ3vjyB51wcWrPmVV--yH5Xk308)  
 
 ---
 
