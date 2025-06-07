@@ -38,7 +38,10 @@ This **Power BI dashboard** analyzes **transaction records from a coffee vending
 ✅ **Data Storytelling** – Turning insights into impactful reports  
 
 ---
+## Learning and development
+✅ **Hacker Rank Basic SQL** - 06/2025 - [Certificate of Completion](https://www.hackerrank.com/certificates/0b0188ef422d) 
 
+---
 ## 📢 Connect With Me  
 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/data-aleks/)  
 🚀 **Portfolio & GitHub Projects:** [GitHub Profile](https://github.com/data-aleks)  
