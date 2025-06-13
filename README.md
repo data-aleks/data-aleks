@@ -11,23 +11,23 @@ After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experi
 
 ## 🚀 Featured Projects  
 
-### **📊 Multi-Page Dashboard – Group Project**  
+### **📊 [POWER BI] Multi-Page Dashboard – Group Project**  
 This **Power BI dashboard** was developed as a collaborative project by participants of the **Just IT Data Technician Bootcamp**, working beyond structured sessions to tackle a real-world **data analytics and dashboarding challenge**.  
 🔗 **GitHub Repo:** [Multi-Page Dashboard](https://github.com/data-aleks/Multi-Page-Dashboard-Group-Project-)  
 🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/posts/data-aleks_powerbi-dataanalytics-collaboration-activity-7335969275662204928-mNZn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoVicIBeJ3vjyB51wcWrPmVV--yH5Xk308)  
 
-### **💰 Telecom Churn Rate Dashboard and Data Analysis** 
+### **💰 [POWER BI] Telecom Churn Rate Dashboard and Data Analysis** 
 This **Power BI dashboard** analyzes **customer churn trends** using the **Orange Telecom Churn Dataset**, which contains cleaned customer activity data along with a churn label indicating whether a customer canceled their subscription.    
 🔗 **GitHub Repo:** [Financial Market Analysis](https://github.com/data-aleks/Telecom_churn_rate)  
 🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/posts/data-aleks_powerbi-data-dashboard-activity-7336291499443126273-O714?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoVicIBeJ3vjyB51wcWrPmVV--yH5Xk308)  
 
 
-### **📍 Coffee Vending Machine Sales Analysis**  
+### **📍 [POWER BI] Coffee Vending Machine Sales Analysis**  
 This **Power BI dashboard** analyzes **transaction records from a coffee vending machine**, providing insights into **purchasing patterns, sales trends, and customer preferences** for coffee products. The dataset, contributed as part of an **open data initiative**, offers a valuable resource for understanding consumer behavior in vending machine sales.   
 🔗 **GitHub Repo:** [Coffee Vending Machine Sales Analysis](https://github.com/data-aleks/coffee_machine_sales)  
 🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/posts/data-aleks_powerbi-dataanalytics-dashboarddesign-activity-7336879578163875842-5gV0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoVicIBeJ3vjyB51wcWrPmVV--yH5Xk308)  
 
-### **👽 Data Cleaning of UFO Sightings Dataset**  
+### **👽 [PYTHON] Data Cleaning of UFO Sightings Dataset**  
 The goal of this project is to explore, clean, and analyze UFO sightings from the Kaggle dataset using Python. This is Part 1, focusing entirely on data cleaning—an essential step in preparing data for meaningful insights. The objective is to become comfortable with Python's data analytics workflow and master various data cleaning techniques..   
 🔗 **GitHub Repo:** [Data Cleaning of UFO Sightings Dataset](https://github.com/data-aleks/UFO_Sightings_python)  
 🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7339242106378407937/)  
