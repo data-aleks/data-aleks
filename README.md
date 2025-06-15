@@ -27,12 +27,6 @@ This **Power BI dashboard** analyzes **transaction records from a coffee vending
 🔗 **GitHub Repo:** [Coffee Vending Machine Sales Analysis](https://github.com/data-aleks/coffee_machine_sales)  
 🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/posts/data-aleks_powerbi-dataanalytics-dashboarddesign-activity-7336879578163875842-5gV0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoVicIBeJ3vjyB51wcWrPmVV--yH5Xk308)  
 
-### **👽 [PYTHON] Data Cleaning of UFO Sightings Dataset**  
-The goal of this project is to explore, clean, and analyze UFO sightings from the Kaggle dataset using Python. This is Part 1, focusing entirely on data cleaning—an essential step in preparing data for meaningful insights. The objective is to become comfortable with Python's data analytics workflow and master various data cleaning techniques..   
-🔗 **GitHub Repo:** [Data Cleaning of UFO Sightings Dataset](https://github.com/data-aleks/UFO_Sightings_python)  
-🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7339242106378407937/)  
-
-
 ---
 
 ## 🛠️ Skills & Technologies  
