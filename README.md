@@ -5,7 +5,7 @@ I'm a **Data Analyst & Power BI Developer**, passionate about transforming raw d
 
 After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experience in **sql, excel, power bi, azure, python, data modeling, report optimization, and performance tuning**—skills that drive meaningful decision-making in business intelligence.  
 
-📍 Currently working on **advanced DAX techniques, customer analytics, and business intelligence solutions** to refine my portfolio.  
+📍 Currently working on **data analysis with python, advanced DAX techniques, customer analytics, and business intelligence solutions** to refine my portfolio.  
 
 ---
 
