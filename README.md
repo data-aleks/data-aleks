@@ -27,12 +27,17 @@ This **Power BI dashboard** analyzes **transaction records from a coffee vending
 🔗 **GitHub Repo:** [Coffee Vending Machine Sales Analysis](https://github.com/data-aleks/coffee_machine_sales)  
 🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/posts/data-aleks_powerbi-dataanalytics-dashboarddesign-activity-7336879578163875842-5gV0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoVicIBeJ3vjyB51wcWrPmVV--yH5Xk308)  
 
+### **🛸 [PANDAS, NUMPY, MATPLOTLIB, SCIPY, SKLEARN] UFO Sighting Data Analysis - Real World Data From NUFORC and OURWORLDINDATA**  
+This project aims to perform a comprehensive data analysis of **real-world UFO sightings**, correlating them with publicly available astronomical and space-related data. The primary objective is to **obtain, clean, process, and analyze** reported UFO incidents to identify patterns, trends, and potential relationships with known publicly available data.
+🔗 **GitHub Repo:** [UFO Sighting Data Analysis](https://github.com/data-aleks/type_one_ufo_analysis/tree/main)  
+🔗 **Project Overview:** [LinkedIn Post](https://www.linkedin.com/posts/data-aleks_dataanalysis-ufo-spaceexploration-activity-7340317208637505537-lvCL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoVicIBeJ3vjyB51wcWrPmVV--yH5Xk308)  
+
 ---
 
 ## 🛠️ Skills & Technologies  
 ✅ **Power BI** – Dashboard Development, DAX, Report Optimization  
 ✅ **SQL** – Querying, Data Transformation, ETL  
-✅ **Python** – Data Manipulation, Pandas, NumPy, Seaborn  
+✅ **Python** – Data Manipulation, Pandas, NumPy, Seaborn, Matplotlib, Scipy, Sklearn  
 ✅ **Azure** – Cloud-based Analytics, Data Lake Storage  
 ✅ **Dimensional Modeling** – Star Schema, Kimball Method  
 ✅ **Data Storytelling** – Turning insights into impactful reports  
