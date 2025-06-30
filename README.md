@@ -11,6 +11,9 @@ After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experi
 
 ## 🚀 Featured Projects  
 
+### **📊 [Pandas, NumPy, Scikit-learn, XGBoost, NLTK, Matplotlib & Seaborn, Statsmodels] Sentiment Stock Analysis - PFIZER**  
+🔗 **Repo:** [Understanding Public Sentiment through Google Search Data](https://github.com/data-aleks/financial_sentiment_stock_analysis/tree/main)  
+
 ### **🏡 [PANDAS, NUMPY, SEABORN, SEABORN, STATSMODEL] How do changes in average disposable income and BoE base rates impact UK house prices?**  
 🔗 **GitHub Repo:** [House Price Project](https://github.com/data-aleks/house_prices_project)  
 
