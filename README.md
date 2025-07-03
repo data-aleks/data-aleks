@@ -11,7 +11,7 @@ After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experi
 
 ## 🚀 Featured Projects  
 [Understanding Public Sentiment through Google Search Data](https://github.com/data-aleks/financial_sentiment_stock_analysis/tree/main)  
-[House Price Project](https://github.com/data-aleks/house_prices_project)  
+[How do changes in average disposable income and BoE base rates impact UK house prices?](https://github.com/data-aleks/house_prices_project)  
 [UFO Sighting Data Analysis](https://github.com/data-aleks/type_one_ufo_analysis/tree/main)  
 [Multi-Page Dashboard](https://github.com/data-aleks/Multi-Page-Dashboard-Group-Project-)  
 [Financial Market Analysis](https://github.com/data-aleks/Telecom_churn_rate)  
