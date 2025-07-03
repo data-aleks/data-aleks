@@ -10,24 +10,12 @@ After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experi
 ---
 
 ## 🚀 Featured Projects  
-
-### **📊 [Pandas, NumPy, Scikit-learn, XGBoost, NLTK, Matplotlib & Seaborn, Statsmodels] Sentiment Stock Analysis - PFIZER**  
-🔗 **Repo:** [Understanding Public Sentiment through Google Search Data](https://github.com/data-aleks/financial_sentiment_stock_analysis/tree/main)  
-
-### **🏡 [PANDAS, NUMPY, SEABORN, SEABORN, STATSMODEL] How do changes in average disposable income and BoE base rates impact UK house prices?**  
-🔗 **GitHub Repo:** [House Price Project](https://github.com/data-aleks/house_prices_project)  
-
-### **🛸 [PANDAS, NUMPY, MATPLOTLIB, SCIPY, SKLEARN] UFO Sighting Data Analysis - Real World Data From NUFORC and OURWORLDINDATA**  
-🔗 **GitHub Repo:** [UFO Sighting Data Analysis](https://github.com/data-aleks/type_one_ufo_analysis/tree/main)  
-
-### **📊 [POWER BI] Multi-Page Dashboard – Group Project**  
-🔗 **Repo:** [Multi-Page Dashboard](https://github.com/data-aleks/Multi-Page-Dashboard-Group-Project-)  
-
- ### **💰 [POWER BI] Telecom Churn Rate Dashboard and Data Analysis**    
-🔗 **Repo:** [Financial Market Analysis](https://github.com/data-aleks/Telecom_churn_rate)  
-
-### **📍 [POWER BI] Coffee Vending Machine Sales Analysis**  
-🔗 **Repo:** [Coffee Vending Machine Sales Analysis](https://github.com/data-aleks/coffee_machine_sales)  
+[Understanding Public Sentiment through Google Search Data](https://github.com/data-aleks/financial_sentiment_stock_analysis/tree/main)  
+[House Price Project](https://github.com/data-aleks/house_prices_project)  
+[UFO Sighting Data Analysis](https://github.com/data-aleks/type_one_ufo_analysis/tree/main)  
+[Multi-Page Dashboard](https://github.com/data-aleks/Multi-Page-Dashboard-Group-Project-)  
+[Financial Market Analysis](https://github.com/data-aleks/Telecom_churn_rate)  
+[Coffee Vending Machine Sales Analysis](https://github.com/data-aleks/coffee_machine_sales)  
 
 
 ---
