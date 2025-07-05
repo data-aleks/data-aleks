@@ -30,7 +30,7 @@ After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experi
 
 ---
 ## Learning and development
-✅ **Hacker Rank Basic SQL** - 06/2025 - [Certificate of Completion](https://www.hackerrank.com/certificates/0b0188ef422d) 
+✅ **Hacker Rank Basic SQL** - 06/2025 - [Certificate of Completion](https://www.hackerrank.com/certificates/0b0188ef422d)
 ✅ **Just IT Data Technician Bootcamp** - 05/2025 - [Certificate of Completion](https://github.com/data-aleks/data-aleks/blob/608a334b750e712ced9152e17a449c1340996ace/Just%20IT%20Certificate%20of%20Achievement%20-%20Skills%20Bootcamps%20in%20Data%20Technician_Aleksandr.pdf)
 
 ---
