@@ -10,7 +10,7 @@ After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experi
 ---
 
 ## 🚀 Featured Projects  
-[Billboard Hot 100 - Tidy Tuesday - 26.08.2025](https://github.com/data-aleks/billboard_hot100_tidytuesday_26_08_2025)
+[Billboard Hot 100 - Tidy Tuesday - 26.08.2025](https://github.com/data-aleks/billboard_hot100_tidytuesday_26_08_2025)  
 [Scottish Munros - Tidy Tuesday - 19.08.2025](https://github.com/data-aleks/scottishmunros_tidytuesday_19_08_2025)   
 [Credit Card Churn Prediction with Python](https://github.com/data-aleks/CreditCardChurn-PredictiveModelling)  
 [Understanding Public Sentiment through Google Search Data](https://github.com/data-aleks/financial_sentiment_stock_analysis/)  
