@@ -1,11 +1,7 @@
 # 👋 Welcome to My GitHub Portfolio  
 
 ## 🏆 About Me  
-I'm a **Data Analyst & Power BI Developer**, passionate about transforming raw data into actionable insights. With a strong background in **SQL, Python, and Power BI**, I specialize in **data visualization, dashboard design, and advanced analytics**.  
-
-After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experience in **sql, excel, power bi, azure, python, data modeling, report optimization, and performance tuning**—skills that drive meaningful decision-making in business intelligence.  
-
-📍 Currently working on **data analysis with python, advanced DAX techniques, customer analytics, and business intelligence solutions** to refine my portfolio.  
+**Power BI Developer / Analyst**
 
 ---
 
