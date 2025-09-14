@@ -10,6 +10,7 @@ After completing the **Just IT Data Analyst Bootcamp**, I gained hands-on experi
 ---
 
 ## 🚀 Featured Projects  
+[Henley Passport Index Data - Tidy Tuesday - 09.09.2025](https://github.com/data-aleks/henley_passport_index_tidy_tuesday_09_09_09)   
 [Australian Frogs - Tidy Tuesday - 02.09.2025](https://github.com/data-aleks/australian_frogs_tidytuesday_02_09_2025)    
 [Billboard Hot 100 - Tidy Tuesday - 26.08.2025](https://github.com/data-aleks/billboard_hot100_tidytuesday_26_08_2025)  
 [Scottish Munros - Tidy Tuesday - 19.08.2025](https://github.com/data-aleks/scottishmunros_tidytuesday_19_08_2025)   
