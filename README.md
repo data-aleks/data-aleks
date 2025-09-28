@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Featured Projects  
-[Efficiency & Health: A Nutritional Benchmark Analysis - Tidy Tuesday - Allrecipes - 09.09.2025](https://github.com/data-aleks/Allrecipes_tidy_tusday_16092025)  
+[Efficiency & Health: A Nutritional Benchmark Analysis - Tidy Tuesday - Allrecipes - 16.09.2025](https://github.com/data-aleks/Allrecipes_tidy_tusday_16092025)  
 [Henley Passport Index Data - Tidy Tuesday - 09.09.2025](https://github.com/data-aleks/henley_passport_index_tidy_tuesday_09_09_09)   
 [Australian Frogs - Tidy Tuesday - 02.09.2025](https://github.com/data-aleks/australian_frogs_tidytuesday_02_09_2025)    
 [Billboard Hot 100 - Tidy Tuesday - 26.08.2025](https://github.com/data-aleks/billboard_hot100_tidytuesday_26_08_2025)  
