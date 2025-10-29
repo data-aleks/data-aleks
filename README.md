@@ -1,10 +1,9 @@
 # 👋 Welcome to My GitHub Portfolio  
 
 ## 🏆 About Me  
-**Power BI Developer / Analyst**
-
+I’m a seasoned financial services professional transitioning into data analytics, with nearly a decade of experience in client
+facing roles across financial operations, mortgage consulting and hospitality. 
 ---
-
 ## 🚀 Featured Projects  
 [Efficiency & Health: A Nutritional Benchmark Analysis - Tidy Tuesday - Allrecipes - 16.09.2025](https://github.com/data-aleks/Allrecipes_tidy_tusday_16092025)  
 [Henley Passport Index Data - Tidy Tuesday - 09.09.2025](https://github.com/data-aleks/henley_passport_index_tidy_tuesday_09_09_09)   
@@ -18,10 +17,7 @@
 [Multi-Page Dashboard - Group Project](https://github.com/data-aleks/Multi-Page-Dashboard-Group-Project-)  
 [Telecom Churn Rate Analysis](https://github.com/data-aleks/Telecom_churn_rate)  
 [Coffee Vending Machine Sales Analysis](https://github.com/data-aleks/coffee_machine_sales)  
-
-
 ---
-
 ## 🛠️ Skills & Technologies  
 ✅ **Power BI** – Dashboard Development, DAX, Report Optimization  
 ✅ **SQL** – Querying, Data Transformation, ETL  
@@ -29,17 +25,7 @@
 ✅ **Azure** – Cloud-based Analytics, Data Lake Storage  
 ✅ **Dimensional Modeling** – Star Schema, Kimball Method  
 ✅ **Data Storytelling** – Turning insights into impactful reports  
-
----
-## Learning and development
-✅ **Hacker Rank Basic SQL** - 06/2025 - [Certificate of Completion](https://www.hackerrank.com/certificates/0b0188ef422d)
-
-✅ **Just IT Data Technician Bootcamp** - 05/2025 - [Certificate of Completion](https://github.com/data-aleks/data-aleks/blob/608a334b750e712ced9152e17a449c1340996ace/Just%20IT%20Certificate%20of%20Achievement%20-%20Skills%20Bootcamps%20in%20Data%20Technician_Aleksandr.pdf)
-
 ---
 ## 📢 Connect With Me  
 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/data-aleks/)  
-🚀 **Portfolio & GitHub Projects:** [GitHub Profile](https://github.com/data-aleks)  
-
-I'm passionate about leveraging **data analytics and business intelligence** to drive strategic decision-making. Always open to collaborating on **Power BI & Data Analytics projects**—let’s make data-driven insights **impactful!** 🔥  
 
