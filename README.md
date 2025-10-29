@@ -3,7 +3,9 @@
 ## 🏆 About Me  
 I’m a seasoned financial services professional transitioning into data analytics, with nearly a decade of experience in client
 facing roles across financial operations, mortgage consulting and hospitality. 
+
 ---
+
 ## 🚀 Featured Projects  
 [Efficiency & Health: A Nutritional Benchmark Analysis - Tidy Tuesday - Allrecipes - 16.09.2025](https://github.com/data-aleks/Allrecipes_tidy_tusday_16092025)  
 [Henley Passport Index Data - Tidy Tuesday - 09.09.2025](https://github.com/data-aleks/henley_passport_index_tidy_tuesday_09_09_09)   
@@ -17,7 +19,9 @@ facing roles across financial operations, mortgage consulting and hospitality.
 [Multi-Page Dashboard - Group Project](https://github.com/data-aleks/Multi-Page-Dashboard-Group-Project-)  
 [Telecom Churn Rate Analysis](https://github.com/data-aleks/Telecom_churn_rate)  
 [Coffee Vending Machine Sales Analysis](https://github.com/data-aleks/coffee_machine_sales)  
+
 ---
+
 ## 🛠️ Skills & Technologies  
 ✅ **Power BI** – Dashboard Development, DAX, Report Optimization  
 ✅ **SQL** – Querying, Data Transformation, ETL  
@@ -25,7 +29,9 @@ facing roles across financial operations, mortgage consulting and hospitality.
 ✅ **Azure** – Cloud-based Analytics, Data Lake Storage  
 ✅ **Dimensional Modeling** – Star Schema, Kimball Method  
 ✅ **Data Storytelling** – Turning insights into impactful reports  
+
 ---
+
 ## 📢 Connect With Me  
 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/data-aleks/)  
 
