@@ -4,15 +4,11 @@
 I’m a seasoned financial services professional transitioning into data analytics, with nearly a decade of experience in client
 facing roles across financial operations, mortgage consulting and hospitality. 
 
----
-
 ## Projects
 These are projects where I’ve gone beyond technical execution to deliver real business value. They combine data analytics, predictive modeling, and storytelling to solve practical problems. Each one reflects my ability to turn raw data into actionable insights that support smarter decision-making.
 
 [Credit Risk And Loss Insights For Young Borrowers ( Under 30 )](https://github.com/data-aleks/Credit-Risk-And-Loss-Insights-For-Young-Borrowers) - 
 A full-scale business intelligence case study using Power BI and Python. This project identifies high-risk borrower segments, builds a predictive model to classify default risk, and delivers strategic recommendations to reduce potential losses. It’s a complete solution-from data modeling to dashboard design to business impact.
-
----
 
 ## Other Projects
 These are projects I’ve completed throughout my learning journey. While they may not be perfect, each one helped me sharpen my skills in data analytics, Power BI, and Python. They reflect experimentation, exploration, and a commitment to improving my workflow, tooling, and analytical thinking
@@ -32,8 +28,6 @@ These are projects I’ve completed throughout my learning journey. While they m
 
 These projects reflect my curiosity and commitment to continuous learning. Each one helped me build the foundation for the business-focused analytics I deliver today.
 
----
-
 ## Skills & Technologies  
 **Power BI** – Dashboard Development, DAX, Report Optimization  
 **SQL** – Querying, Data Transformation, ETL  
@@ -41,8 +35,6 @@ These projects reflect my curiosity and commitment to continuous learning. Each 
 **Dimensional Modeling** – Star Schema, Kimball Method  
 **Data Storytelling** – Turning insights into impactful reports  
 **Collaboration & Communication** - Stakeholder engagement, translating technical insights into business language
-
----
 
 ## Let's connect 
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/data-aleks/)  
