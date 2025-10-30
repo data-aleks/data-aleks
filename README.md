@@ -39,7 +39,7 @@ These projects reflect my curiosity and commitment to continuous learning. Each 
 **SQL** – Querying, Data Transformation, ETL  
 **Python** – Data Manipulation, Pandas, NumPy, Seaborn, Matplotlib, Scipy, Sklearn  
 **Dimensional Modeling** – Star Schema, Kimball Method  
-**Data Storytelling** – Turning insights into impactful reports 
+**Data Storytelling** – Turning insights into impactful reports  
 **Collaboration & Communication** - Stakeholder engagement, translating technical insights into business language
 
 ---
