@@ -9,7 +9,7 @@ facing roles across financial operations, mortgage consulting and hospitality.
 ## Projects
 These are projects where I’ve gone beyond technical execution to deliver real business value. They combine data analytics, predictive modeling, and storytelling to solve practical problems. Each one reflects my ability to turn raw data into actionable insights that support smarter decision-making.
 
-[Credit Risk And Loss Insights For Young Borrowers ( Under 30 )](https://github.com/data-aleks/Credit-Risk-And-Loss-Insights-For-Young-Borrowers) 
+[Credit Risk And Loss Insights For Young Borrowers ( Under 30 )](https://github.com/data-aleks/Credit-Risk-And-Loss-Insights-For-Young-Borrowers) - 
 A full-scale business intelligence case study using Power BI and Python. This project identifies high-risk borrower segments, builds a predictive model to classify default risk, and delivers strategic recommendations to reduce potential losses. It’s a complete solution—from data modeling to dashboard design to business impact.
 
 ---
