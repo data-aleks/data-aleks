@@ -1,8 +1,7 @@
 # Welcome to My GitHub Portfolio  
 
 ## About Me  
-I’m a seasoned financial services professional transitioning into data analytics, with nearly a decade of experience in client
-facing roles across financial operations, mortgage consulting and hospitality. 
+I'm a data-driven professional with a strong foundation in financial services, currently transitioning into business intelligence and analytics. With nearly a decade of experience in client-facing roles across financial operations, mortgage consulting, and hospitality, I bring a deep understanding of business processes and stakeholder needs. My background in high-pressure environments has honed my analytical thinking, precision, and ability to transform complex data into clear, actionable insights that support strategic decision-making.
 
 ## Projects
 These are projects where I’ve gone beyond technical execution to deliver real business value. They combine data analytics, predictive modeling, and storytelling to solve practical problems. Each one reflects my ability to turn raw data into actionable insights that support smarter decision-making.
