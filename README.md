@@ -12,6 +12,11 @@ An end-to-end business intelligence solution using Power BI, Python, and SQL. Th
 [Credit Risk And Loss Insights For Young Borrowers ( Under 30 )](https://github.com/data-aleks/Credit-Risk-And-Loss-Insights-For-Young-Borrowers) - 
 A full-scale business intelligence case study using Power BI and Python. This project identifies high-risk borrower segments, builds a predictive model to classify default risk, and delivers strategic recommendations to reduce potential losses. It’s a complete solution-from data modeling to dashboard design to business impact.
 
+## Challenges and Competitions
+These are projects completed as part of many available challenges. 
+[December 2025 DataDNA – Animal Shelter Operations Challenge](https://github.com/data-aleks/data_dna_animal_shelter) - 
+This project identifies high-risk operational segments, isolates key drivers of resource consumption (ALOS), and delivers strategic recommendations for targeted prevention and field service allocation. 
+
 ## Other Projects
 These are projects I’ve completed throughout my learning journey. While they may not be perfect, each one helped me sharpen my skills in data analytics, Power BI, and Python. They reflect experimentation, exploration, and a commitment to improving my workflow, tooling, and analytical thinking
 
