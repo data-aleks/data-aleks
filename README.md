@@ -14,6 +14,7 @@ A full-scale business intelligence case study using Power BI and Python. This pr
 
 ## Challenges and Competitions
 These are projects completed as part of many available challenges. 
+
 [December 2025 DataDNA – Animal Shelter Operations Challenge](https://github.com/data-aleks/data_dna_animal_shelter) - 
 This project identifies high-risk operational segments, isolates key drivers of resource consumption (ALOS), and delivers strategic recommendations for targeted prevention and field service allocation. 
 
