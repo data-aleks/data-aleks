@@ -18,6 +18,9 @@ These are projects completed as part of many available challenges.
 [December 2025 DataDNA – Animal Shelter Operations Challenge](https://github.com/data-aleks/data_dna_animal_shelter) - 
 This project identifies high-risk operational segments, isolates key drivers of resource consumption (ALOS), and delivers strategic recommendations for targeted prevention and field service allocation. 
 
+[FP20 Analytics & ZoomCharts Challenge 33](https://github.com/data-aleks/FP20_Decmeber_2025_Retail_Sales_Dashbaord) -
+This project is an end-to-end performance audit designed to quantify the hidden costs of peak-season logistics by mapping the direct correlation between fulfillment failures and margin erosion. By analyzing campaign efficiency, carrier performance, and return volatility, the study identifies a systemic "Reality Gap" where delivery delays triggered a massive surge in returns
+
 ## Other Projects
 These are projects I’ve completed throughout my learning journey. While they may not be perfect, each one helped me sharpen my skills in data analytics, Power BI, and Python. They reflect experimentation, exploration, and a commitment to improving my workflow, tooling, and analytical thinking
 
