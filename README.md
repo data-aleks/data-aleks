@@ -1,9 +1,9 @@
 # Welcome to My GitHub Portfolio  
 
 ## About Me  
-I am a **Business Intelligence Analyst** with a deep foundation in regulated financial operations. [cite_start]I specialize in bridging the gap between raw data and actionable business strategy by automating ETL pipelines, designing dimensional models, and building interactive Power BI dashboards. [cite: 52, 53]
+I am a **Business Intelligence Analyst** with a deep foundation in regulated financial operations. I specialize in bridging the gap between raw data and actionable business strategy by automating ETL pipelines, designing dimensional models, and building interactive Power BI dashboards.
 
-[cite_start]My background includes managing high-stakes capital transactions (up to £3M daily) and engineering proprietary tools that have **reduced manual data processing time by 75%**. [cite: 54, 74, 78] [cite_start]I am passionate about transforming complex datasets into clear, diagnostic intelligence that supports operational efficiency and risk mitigation. [cite: 53, 55]
+My background includes managing high-stakes capital transactions (up to £3M daily) and engineering proprietary tools that have **reduced manual data processing time by 75%**. I am passionate about transforming complex datasets into clear, diagnostic intelligence that supports operational efficiency and risk mitigation. 
 
 ## Projects
 These projects represent end-to-end BI solutions, moving from automated data engineering to executive-level storytelling.
