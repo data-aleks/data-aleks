@@ -6,7 +6,7 @@ I am a **Business Intelligence Analyst** with a deep foundation in regulated fin
 My background includes managing high-stakes capital transactions (up to £3M daily) and engineering proprietary tools that have **reduced manual data processing time by 75%**. I am passionate about transforming complex datasets into clear, diagnostic intelligence that supports operational efficiency and risk mitigation. 
 
 
-[My Portfolio](https://data-aleks.github.io/)
+[My Portfolio](https://data-aleks.github.io/) | [My LinkedIn](https://www.linkedin.com/in/data-aleks/) 
 
 ## Projects
 These projects represent end-to-end BI solutions, moving from automated data engineering to executive-level storytelling.
@@ -24,7 +24,4 @@ This project is an end-to-end performance audit designed to quantify the hidden 
 **Dimensional Modeling** – Star Schema, Kimball Method  
 **Data Storytelling** – Turning insights into impactful reports  
 **Collaboration & Communication** - Stakeholder engagement, translating technical insights into business language
-
-## Let's connect 
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/data-aleks/)  
 
