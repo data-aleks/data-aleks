@@ -3,9 +3,6 @@
 ## About Me  
 I am a **Business Intelligence Analyst** with a deep foundation in regulated financial operations. I specialize in bridging the gap between raw data and actionable business strategy by automating ETL pipelines, designing dimensional models, and building interactive Power BI dashboards.
 
-My background includes managing high-stakes capital transactions (up to £3M daily) and engineering proprietary tools that have **reduced manual data processing time by 75%**. I am passionate about transforming complex datasets into clear, diagnostic intelligence that supports operational efficiency and risk mitigation. 
-
-
 [My Portfolio](https://data-aleks.github.io/) | [My LinkedIn](https://www.linkedin.com/in/data-aleks/) 
 
 ## Projects
