@@ -16,7 +16,7 @@ This project is an end-to-end performance audit designed to quantify the hidden 
 
 
 [Credit Portfolio Risk & Performance Insights](https://github.com/data-aleks/credit-portfolio-risk-insights) -
-This project is an end-to-end credit risk audit designed to quantify portfolio vulnerability by mapping the direct correlation between aggressive lending leverage and realized capital loss. By integrating a Python-driven predictive suite into a consolidated executive view, the study identifies a critical "Risk Inflection Point" where borrower Loan-to-Income (LTI) ratios trigger a systemic breach of the 50% default probability threshold.
+This project is an end-to-end credit risk audit designed to quantify portfolio vulnerability by mapping the direct correlation between aggressive lending leverage and realized capital loss. This project connect utilises python predictive model inside Power BI.
 
 
 [Consumer Complaint Intelligence Dashboard](https://github.com/data-aleks/consumer_complaints_dashboard) - 
