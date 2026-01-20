@@ -11,11 +11,17 @@ My background includes managing high-stakes capital transactions (up to £3M dai
 ## Projects
 These projects represent end-to-end BI solutions, moving from automated data engineering to executive-level storytelling.
 
+[Retail Sales Dashboard](https://github.com/data-aleks/FP20_Decmeber_2025_Retail_Sales_Dashbaord) -
+This project is an end-to-end performance audit designed to quantify the hidden costs of peak-season logistics by mapping the direct correlation between fulfillment failures and margin erosion. By analyzing campaign efficiency, carrier performance, and return volatility, the study identifies a systemic "Reality Gap" where delivery delays triggered a massive surge in returns
+
+
+[Credit Portfolio Risk & Performance Insights](https://github.com/data-aleks/credit-portfolio-risk-insights) -
+This project is an end-to-end credit risk audit designed to quantify portfolio vulnerability by mapping the direct correlation between aggressive lending leverage and realized capital loss. By integrating a Python-driven predictive suite into a consolidated executive view, the study identifies a critical "Risk Inflection Point" where borrower Loan-to-Income (LTI) ratios trigger a systemic breach of the 50% default probability threshold.
+
+
 [Consumer Complaint Intelligence Dashboard](https://github.com/data-aleks/consumer_complaints_dashboard) - 
 An end-to-end business intelligence solution using Power BI, Python, and SQL. This project engineers a dynamic ETL pipeline to process millions of consumer complaints, analyzes key risk areas across products and geographies, and delivers strategic insights to help financial institutions mitigate regulatory risk. It’s a complete solution from automated data engineering and modeling to interactive dashboard design and actionable intelligence.
 
-[Retail Sales Dashboard](https://github.com/data-aleks/FP20_Decmeber_2025_Retail_Sales_Dashbaord) -
-This project is an end-to-end performance audit designed to quantify the hidden costs of peak-season logistics by mapping the direct correlation between fulfillment failures and margin erosion. By analyzing campaign efficiency, carrier performance, and return volatility, the study identifies a systemic "Reality Gap" where delivery delays triggered a massive surge in returns
 
 ## Skills & Technologies  
 **Power BI** – Dashboard Development, DAX, Report Optimization  
